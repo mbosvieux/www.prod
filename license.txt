@@ -1,4 +1,4 @@
-WordPress - Web publishing software
+WP - Web publishing software
 
 Copyright 2014 by the contributors
 
